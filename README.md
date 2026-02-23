@@ -1,6 +1,4 @@
-# 🎮 **Monsters of Glenwald** is a single player story based game, where a King fights several monsters to protect his kingdom.
-
-#### 📺 Gameplay Demo: https://youtu.be/V5NkMXvHumY?si=A8VEVwsV5hyqIEKI
+# **Monsters of Glenwald** 🎮🤴👾
 
 ---
 
@@ -8,6 +6,8 @@
 
 **Monsters of Glenwald** is a single-player, story-driven console game written in Python. It features engaging gameplay, rich lore and backstories, ASCII-style characters with animations, rising difficulty, low-health power-ups, and challenges that build problem-solving, analytical, and strategic thinking.
 
+---
+#### 📺 Gameplay Demo: https://youtu.be/V5NkMXvHumY?si=A8VEVwsV5hyqIEKI
 ---
 
 ## ✨ Features
@@ -54,7 +54,7 @@ Players can choose to **watch the story or skip directly to gameplay**.
 
 ---
 
-### Level Two — <SCRUM>
+### Level Two — SCRUM
 
 - Word scramble challenge
 - Timed input
@@ -63,14 +63,14 @@ Players can choose to **watch the story or skip directly to gameplay**.
 
 ---
 
-### Level Three — <DETONARCH>
+### Level Three — DETONARCH
 
 - Solve math problems under time pressure
 - Rewards unlocked after victory
 
 ---
 
-### Level Four — <VELDREK>
+### Level Four — VELDREK
 
 - Strategic attack selection
 - Unique ASCII battle animations
@@ -85,20 +85,6 @@ Players can choose to **watch the story or skip directly to gameplay**.
   - `rich`
   - `pyfiglet`
   - `inputimeout`
-
----
-### 📁 Project Structure
-monsters-of-glenwald/
-│
-├── main.py
-├── thunder.py
-├── unicorn.py
-├── win.py
-├── zanimation1.py
-├── requirements.txt
-└── README.md
-
-Supporting files include character art, animation frames, and gameplay utilities.
 
 ---
 
