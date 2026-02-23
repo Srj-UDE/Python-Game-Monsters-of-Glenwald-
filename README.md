@@ -1,7 +1,5 @@
 # **Monsters of Glenwald** 🎮🤴👾
 
----
-
 ## 📌 Description
 
 **Monsters of Glenwald** is a single-player, story-driven console game written in Python. It features engaging gameplay, rich lore and backstories, ASCII-style characters with animations, rising difficulty, low-health power-ups, and challenges that build problem-solving, analytical, and strategic thinking.
