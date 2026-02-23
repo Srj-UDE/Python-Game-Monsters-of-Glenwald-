@@ -8,6 +8,11 @@
 #### 📺 Gameplay Demo: https://youtu.be/V5NkMXvHumY?si=A8VEVwsV5hyqIEKI
 ---
 ### Gameplay scenes
+![det_doublesword](https://github.com/user-attachments/assets/4255dd53-7246-45de-b956-5659f33f009f)
+![retailiate](https://github.com/user-attachments/assets/99cf6a5d-d301-4728-87ab-7325ecbe5dc4)
+![sceptre](https://github.com/user-attachments/assets/7accd295-798d-4a94-8cae-8053ed4339d0)
+![Gameplay](https://github.com/user-attachments/assets/2116a657-b6a6-4f1b-8679-502e514c1b2e)
+![unicorn](https://github.com/user-attachments/assets/97635bda-31a3-44bf-835a-e4b8cc4d5288)
 
 
 
