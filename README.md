@@ -8,9 +8,7 @@
 #### 📺 Gameplay Demo: https://youtu.be/V5NkMXvHumY?si=A8VEVwsV5hyqIEKI
 ---
 #### Gameplay scenes
-<p align="center">
-  <img src="E:\game\Python-Game-Monsters-of-Glenwald-\animations\pegasus.gif" width="600">
-</p>
+![Gameplay](pegasus.gif)
 
 ## ✨ Features
 
