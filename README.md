@@ -103,7 +103,7 @@ It was a fun and creative way to strengthen my Python and programming logic skil
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Srj-UDE/Python-Game-Monsters-of-Glenwald-.git
-cd <Python-Game-Monsters-of-Glenwald->
+cd Python-Game-Monsters-of-Glenwald-
 
 ```
 ### 2. Install dependencies
