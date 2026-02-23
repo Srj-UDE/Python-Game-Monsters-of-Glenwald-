@@ -8,7 +8,7 @@
 #### 📺 Gameplay Demo: https://youtu.be/V5NkMXvHumY?si=A8VEVwsV5hyqIEKI
 ---
 #### Gameplay scenes
-![Gameplay](game\Python-Game-Monsters-of-Glenwald-\animations\retailiate.gif)
+![Gameplay](game/Python-Game-Monsters-of-Glenwald-/animations/retailiate.gif)
 
 
 
