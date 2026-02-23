@@ -43,7 +43,7 @@ Players can choose to **watch the story or skip directly to gameplay**.
 
 ## 🏰 Levels
 
-### Level One — GRINWRECK
+### Level One — GRINWRECK 💀
 
 - Number guessing battle
 - Even/Odd logic determines attack
@@ -52,7 +52,7 @@ Players can choose to **watch the story or skip directly to gameplay**.
 
 ---
 
-### Level Two — SCRUM
+### Level Two — SCRUM 👾
 
 - Word scramble challenge
 - Timed input
@@ -61,14 +61,14 @@ Players can choose to **watch the story or skip directly to gameplay**.
 
 ---
 
-### Level Three — DETONARCH
+### Level Three — DETONARCH 👺
 
 - Solve math problems under time pressure
 - Rewards unlocked after victory
 
 ---
 
-### Level Four — VELDREK
+### Level Four — VELDREK 👿
 
 - Strategic attack selection
 - Unique ASCII battle animations

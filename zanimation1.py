@@ -540,10 +540,4 @@ def hero():
             sleep(0.15)
             live.update(herov8)
             sleep(0.5)
-#hero()
-#print(alien(),bomber())
-#print("🔥 Explosion Incoming!")
-#time.sleep(2)
-#os.system('cls' if os.name == 'nt' else 'clear')  # Clear screen (Windows/Linux)
-#print("💨 It's gone...")
-#console = Console()
+
