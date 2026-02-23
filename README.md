@@ -10,6 +10,7 @@
 #### Gameplay scenes
 ![Gameplay](pegasus.gif)
 
+---
 ## ✨ Features
 
 - Story-driven gameplay with lore and characters  
