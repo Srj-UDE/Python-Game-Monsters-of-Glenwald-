@@ -46,7 +46,7 @@ Players can choose to **watch the story or skip directly to gameplay**.
 ## 🏰 Levels
 
 ### Level One — GRINWRECK
-<Explain gameplay mechanics briefly>
+
 - Number guessing battle
 - Even/Odd logic determines attack
 - King has limited lives
@@ -55,7 +55,7 @@ Players can choose to **watch the story or skip directly to gameplay**.
 ---
 
 ### Level Two — <SCRUM>
-<Explain gameplay mechanics>
+
 - Word scramble challenge
 - Timed input
 - Correct answer → Player attacks
@@ -64,14 +64,14 @@ Players can choose to **watch the story or skip directly to gameplay**.
 ---
 
 ### Level Three — <DETONARCH>
-<Explain gameplay>
+
 - Solve math problems under time pressure
 - Rewards unlocked after victory
 
 ---
 
 ### Level Four — <VELDREK>
-<Explain final gameplay mechanics>
+
 - Strategic attack selection
 - Unique ASCII battle animations
 - Final victory / defeat animation
@@ -128,14 +128,17 @@ pip install -r requirements.txt
 
 ```
 ### 3. How to run
+```bash
 python main.py
-
+```
 #### Note: For the best visual experience, it is recommended to run the game in the VS Code terminal. Some terminals (like Windows Command Prompt) may render ASCII animations differently.
 
 ---
 
 ## 👤 Author
 SRIJAN KUMAR SAHA
+
+---
 
 ## 📜 License
 All Rights Reserved.
